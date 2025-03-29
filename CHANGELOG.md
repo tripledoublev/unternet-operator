@@ -1,3 +1,6 @@
+## 0.3.3
+- rm testting.js
+
 ## 0.3.2
 - add --no-verify flag to commit command in release workflow
 
